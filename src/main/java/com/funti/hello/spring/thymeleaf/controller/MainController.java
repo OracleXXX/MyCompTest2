@@ -34,3 +34,4 @@ public class MainController {
     }
 
 }
+//http://ec2-3-21-127-147.us-east-2.compute.amazonaws.com:8080/main.html
